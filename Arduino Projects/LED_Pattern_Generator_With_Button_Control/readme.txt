@@ -5,6 +5,3 @@ This project cycles through multiple LED patterns on button press using an Ardui
 ## Components
 - Arduino WiFi R4
 - 4x LEDs, 4 220ohm resistors, breadboard, tactile switch
-
-## Gallery
-![My Circuit Photo](Circuit_Diagram.jpg)
